@@ -1,5 +1,5 @@
 #!/bin/bash
-    echo hi123
+    echo hello maddy boopeshsree!!
     sh 'chmod +x build.sh'
     sh './build.sh'
     docker login -u maddyanas -p balaboopesh7
